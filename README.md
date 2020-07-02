@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# FooDie-App
+this is a Food content detection app that accepts the Url of a food image access it and produces predicted food ingredients alongside thier probabilities.
+>>>>>>> 80388123340fb993123e590b9c1a26a87e24ae22
