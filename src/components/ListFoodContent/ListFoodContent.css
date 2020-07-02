@@ -1,8 +1,6 @@
 .food-content {
   background-color: #eee;
   color: #333;
-  /* display: flex; */
-  /* justify-content: space-around; */
   align-items: center;
   margin: 0 auto;
   background-attachment: scroll;

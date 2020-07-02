@@ -4,7 +4,7 @@ const SignIn = ({ onRouteChange }) => {
   return (
     <article className="br3 shadow-5  ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-l mw5 center">
       <div className=" container">
-        <main className="pa4 black-80">
+        <main className="pa4 black-80 bg-pink">
           <div className="measure ">
             <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
               <legend className="f4 fw6 ph0 mh0">Sign In</legend>
