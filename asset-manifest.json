@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/fooDie-app/static/css/main.55ee6075.chunk.css",
-    "main.js": "/fooDie-app/static/js/main.b74b451d.chunk.js",
-    "main.js.map": "/fooDie-app/static/js/main.b74b451d.chunk.js.map",
-    "runtime-main.js": "/fooDie-app/static/js/runtime-main.39b3f23f.js",
-    "runtime-main.js.map": "/fooDie-app/static/js/runtime-main.39b3f23f.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/fooDie-app/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.fae3ada0.chunk.js": "/fooDie-app/static/js/2.fae3ada0.chunk.js",
-    "static/js/2.fae3ada0.chunk.js.map": "/fooDie-app/static/js/2.fae3ada0.chunk.js.map",
-    "index.html": "/fooDie-app/index.html",
-    "precache-manifest.7149459dc336ea5e226a5994f1652ff9.js": "/fooDie-app/precache-manifest.7149459dc336ea5e226a5994f1652ff9.js",
-    "service-worker.js": "/fooDie-app/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/fooDie-app/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.55ee6075.chunk.css.map": "/fooDie-app/static/css/main.55ee6075.chunk.css.map",
-    "static/js/2.fae3ada0.chunk.js.LICENSE.txt": "/fooDie-app/static/js/2.fae3ada0.chunk.js.LICENSE.txt",
-    "static/media/bake.png": "/fooDie-app/static/media/bake.c4f1d057.png"
+    "main.css": "/FooDie-App/static/css/main.55ee6075.chunk.css",
+    "main.js": "/FooDie-App/static/js/main.c28ec216.chunk.js",
+    "main.js.map": "/FooDie-App/static/js/main.c28ec216.chunk.js.map",
+    "runtime-main.js": "/FooDie-App/static/js/runtime-main.3292c9a6.js",
+    "runtime-main.js.map": "/FooDie-App/static/js/runtime-main.3292c9a6.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/FooDie-App/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0d5590ef.chunk.js": "/FooDie-App/static/js/2.0d5590ef.chunk.js",
+    "static/js/2.0d5590ef.chunk.js.map": "/FooDie-App/static/js/2.0d5590ef.chunk.js.map",
+    "index.html": "/FooDie-App/index.html",
+    "precache-manifest.bd1bd9d0c74e7dbc3ddc1edc367c99e2.js": "/FooDie-App/precache-manifest.bd1bd9d0c74e7dbc3ddc1edc367c99e2.js",
+    "service-worker.js": "/FooDie-App/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/FooDie-App/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.55ee6075.chunk.css.map": "/FooDie-App/static/css/main.55ee6075.chunk.css.map",
+    "static/js/2.0d5590ef.chunk.js.LICENSE.txt": "/FooDie-App/static/js/2.0d5590ef.chunk.js.LICENSE.txt",
+    "static/media/bake.png": "/FooDie-App/static/media/bake.c4f1d057.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.39b3f23f.js",
+    "static/js/runtime-main.3292c9a6.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.fae3ada0.chunk.js",
+    "static/js/2.0d5590ef.chunk.js",
     "static/css/main.55ee6075.chunk.css",
-    "static/js/main.b74b451d.chunk.js"
+    "static/js/main.c28ec216.chunk.js"
   ]
 }
