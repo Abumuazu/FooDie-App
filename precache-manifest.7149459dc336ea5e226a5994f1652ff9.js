@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1078f9230155385e3639534cefef1b3b",
+    "revision": "273412bf204dcc9ad856fe2906747ff8",
     "url": "/fooDie-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fooDie-app/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "ac01477074d58c4d91da",
-    "url": "/fooDie-app/static/css/main.37550ef4.chunk.css"
+    "revision": "d5f80730974b69c36e30",
+    "url": "/fooDie-app/static/css/main.55ee6075.chunk.css"
   },
   {
     "revision": "d0a910b751b12810d2e1",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fooDie-app/static/js/2.fae3ada0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac01477074d58c4d91da",
+    "revision": "d5f80730974b69c36e30",
     "url": "/fooDie-app/static/js/main.b74b451d.chunk.js"
   },
   {
