@@ -69,7 +69,6 @@ class App extends Component {
     return (
       <div className="App ">
         <Particles className="particles" params={ParticlesOpton} />
-
         {route === "home" ? (
           <div>
             <Navigation onRouteChange={this.onRouteChange} />

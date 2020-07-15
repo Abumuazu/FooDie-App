@@ -5,11 +5,11 @@ import bake from "../Logo/bake.png";
 
 const logo = () => {
   return (
-    <div className="container ">
+    <div className="LogoContainer ">
       <Tilt
         className="Tilt shadow-6 bg-pink"
         options={{ max: 50 }}
-        style={{ height: 100, width: 100 }}
+        style={{ height: 50, width: 50 }}
       >
         <div className="Tilt-inner">
           <img className="img " src={bake} alt="logo" />

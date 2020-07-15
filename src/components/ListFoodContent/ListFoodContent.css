@@ -11,12 +11,12 @@
   box-sizing: border-box;
   display: block;
   font-family: sofia-pro, sans-serif;
-  height: 600px;
+  height: 100%;
   overflow-y: auto;
   position: static;
   right: 0px;
   top: 0px;
-  width: 50%;
+  width: 80%;
   -webkit-font-smoothing: antialiased;
   background-size: auto;
 }

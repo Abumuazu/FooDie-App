@@ -1,9 +1,10 @@
 .input-con {
   padding: 2rem 4rem;
   width: auto;
+  margin-bottom: 3rem;
 }
-.btn {
-  margin-top: 2rem;
+button {
+  display: inline-block;
 }
 .input {
   border-radius: 1rem;
@@ -12,13 +13,19 @@
   border-radius: 3px;
   background-color: rgba(#999, 0.7);
   border: none;
-  border-bottom: 3px solid transparent;
-  width: auto;
-  display: flex;
+  width: 60%;
+
+  display: inline-block;
   transition: all 0.3s;
 }
 .input:focus {
   outline: none;
   box-shadow: 0 1rem 2rem rgba(#333, 0.1);
   border-bottom: 3px solid #333;
+}
+label {
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  width: 63%;
 }

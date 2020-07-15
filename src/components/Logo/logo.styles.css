@@ -4,9 +4,10 @@
   margin-top: -4rem;
   box-shadow: 2px;
 }
-.container {
+.LogoContainer {
   margin-top: -7rem;
   margin: 0.4rem;
+  min-height: 10vh important!;
 }
 .img {
   width: 4rem;
