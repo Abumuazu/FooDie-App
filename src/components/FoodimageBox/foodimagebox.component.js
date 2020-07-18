@@ -3,7 +3,7 @@ import "../FoodimageBox/foodimagebox.styles.css";
 
 const FoodImageBox = ({ imageUrl }) => {
   return (
-    <div className=" container">
+    <div className=" ImageContainer">
       <div className="wrapper bg-pink ">
         <div className="image">
           <img alt="imageUrl" src={imageUrl} width="500px" height="auto" />

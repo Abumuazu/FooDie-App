@@ -4,11 +4,7 @@
   align-items: center;
   margin: 0 auto;
   background-attachment: scroll;
-  background-clip: border-box;
-  background-origin: padding-box;
-  background-position-x: 0%;
-  background-position-y: 0%;
-  box-sizing: border-box;
+
   display: block;
   font-family: sofia-pro, sans-serif;
   height: 100%;

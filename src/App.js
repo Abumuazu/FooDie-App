@@ -59,7 +59,7 @@ class App extends Component {
       .then((response) =>
         this.displayFoodContents(this.grabFoodContents(response))
       )
-      .catch((err) => console.log(err));
+      .catch((err) => err);
   };
   onRouteChange = (route) => {
     this.setState({ route: route });
