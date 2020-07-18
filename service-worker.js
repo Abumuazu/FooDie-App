@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FooDie-App/precache-manifest.540d11eeed9fec5cf247391e46979787.js"
+  "/FooDie-App/precache-manifest.1bfebd53260267736e9ea597a77bc940.js"
 );
 
 self.addEventListener('message', (event) => {

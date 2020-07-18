@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FooDie-App/static/css/main.481d4816.chunk.css",
-    "main.js": "/FooDie-App/static/js/main.ae00b229.chunk.js",
-    "main.js.map": "/FooDie-App/static/js/main.ae00b229.chunk.js.map",
+    "main.css": "/FooDie-App/static/css/main.133806da.chunk.css",
+    "main.js": "/FooDie-App/static/js/main.4880c025.chunk.js",
+    "main.js.map": "/FooDie-App/static/js/main.4880c025.chunk.js.map",
     "runtime-main.js": "/FooDie-App/static/js/runtime-main.3292c9a6.js",
     "runtime-main.js.map": "/FooDie-App/static/js/runtime-main.3292c9a6.js.map",
     "static/css/2.3c03f26f.chunk.css": "/FooDie-App/static/css/2.3c03f26f.chunk.css",
     "static/js/2.0d5590ef.chunk.js": "/FooDie-App/static/js/2.0d5590ef.chunk.js",
     "static/js/2.0d5590ef.chunk.js.map": "/FooDie-App/static/js/2.0d5590ef.chunk.js.map",
     "index.html": "/FooDie-App/index.html",
-    "precache-manifest.540d11eeed9fec5cf247391e46979787.js": "/FooDie-App/precache-manifest.540d11eeed9fec5cf247391e46979787.js",
+    "precache-manifest.1bfebd53260267736e9ea597a77bc940.js": "/FooDie-App/precache-manifest.1bfebd53260267736e9ea597a77bc940.js",
     "service-worker.js": "/FooDie-App/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/FooDie-App/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.481d4816.chunk.css.map": "/FooDie-App/static/css/main.481d4816.chunk.css.map",
+    "static/css/main.133806da.chunk.css.map": "/FooDie-App/static/css/main.133806da.chunk.css.map",
     "static/js/2.0d5590ef.chunk.js.LICENSE.txt": "/FooDie-App/static/js/2.0d5590ef.chunk.js.LICENSE.txt",
     "static/media/bake.png": "/FooDie-App/static/media/bake.c4f1d057.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.3292c9a6.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.0d5590ef.chunk.js",
-    "static/css/main.481d4816.chunk.css",
-    "static/js/main.ae00b229.chunk.js"
+    "static/css/main.133806da.chunk.css",
+    "static/js/main.4880c025.chunk.js"
   ]
 }
